@@ -7,7 +7,8 @@ const cors = require("cors");
 const app = express();
 
 const corsOptions = {
-  origin: "https://ecommerce-front-sandy-seven.vercel.app/",
+  origin:
+    "https://ecommerce-front-cv8uplvgc-jows-projects-9784ef6c.vercel.app/",
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS",
   allowedHeaders: ["Content-Type"],
 };
